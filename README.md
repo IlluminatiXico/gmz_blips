@@ -4,6 +4,8 @@ Using this script you can show specific blips for each organization only using p
 
 Join on `GMZ Community` to receive news about the scripts: [https://discord.gg/J2MVhGJ](https://discord.gg/J2MVhGJ "https://discord.gg/J2MVhGJ")
 
+Check tutorial on Youtube (PT-BR): [https://www.youtube.com/watch?v=6THoQUBx3q8](https://www.youtube.com/watch?v=6THoQUBx3q8 "https://www.youtube.com/watch?v=6THoQUBx3q8")
+
 - Easy to setup
 - Easy to change
 
